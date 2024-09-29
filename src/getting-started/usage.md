@@ -1,29 +1,29 @@
-# The Docs Website
+# Trang web Tài liệu
 
 <Badge type="tip" vertical="top" text="Elementor Core" /> <Badge type="warning" vertical="top" text="Basic" />
 
-In order to further support and encourage the developer community, Elementor has created this updated and revised docs center where developers can access detailed documentation, clearly explaining how Elementor works and the options it provides developers.
+Để hỗ trợ và khuyến khích thêm cộng đồng nhà phát triển, Elementor đã tạo ra trung tâm tài liệu được cập nhật và sửa đổi này, nơi các nhà phát triển có thể truy cập tài liệu chi tiết, giải thích rõ ràng cách Elementor hoạt động và các tùy chọn mà nó cung cấp cho nhà phát triển.
 
-## Using this Documentation
+## Sử dụng Tài liệu này
 
-The documentation contained in this site includes descriptions of Elementor concepts and components, how they work and how they can be modified. With this information you should be able to create your own addons within a short period of time.
+Tài liệu có trong trang web này bao gồm các mô tả về các khái niệm và thành phần của Elementor, cách chúng hoạt động và cách chúng có thể được sửa đổi. Với thông tin này, bạn sẽ có thể tạo addon của riêng mình trong một khoảng thời gian ngắn.
 
-## Docs Structure
+## Cấu trúc tài liệu
 
-The top navigation bar is divided into three main areas:
+Thanh điều hướng phía trên được chia thành ba khu vực chính:
 
 * [Getting Started](./../getting-started/)
 * [Elementor Internals](./internals/)
 * [Elementor Components](./components/)
 
-Within the sections describing Elementor’s components, you’ll often find tutorials instructing you on how to create your own addons, walking you through each step. Feel free to copy this code, modifying it for your needs.
+Trong các phần mô tả các thành phần của Elementor, bạn sẽ thường tìm thấy các hướng dẫn chỉ cho bạn cách tạo các addon của riêng bạn, hướng dẫn bạn qua từng bước. Hãy sao chép mã này, sửa đổi nó cho phù hợp với nhu cầu của bạn.
 
-## Learning with Code Examples
+## Học với các ví dụ về mã
 
-At the end of each topic, you’ll find code examples of full addons displaying how to use what you’ve learned about the topic to create your own addon. You can then take these addons and copy them to use in your own projects or as a starting point to create original addons.
+Ở cuối mỗi chủ đề, bạn sẽ tìm thấy các ví dụ mã của các addon đầy đủ hiển thị cách sử dụng những gì bạn đã học về chủ đề để tạo addon của riêng bạn. Sau đó, bạn có thể lấy các addon này và sao chép chúng để sử dụng trong các dự án của riêng bạn hoặc làm điểm khởi đầu để tạo các addon gốc.
 
-## Contributing to the Docs
+## Đóng góp cho Tài liệu
 
-This documentation platform uses a static site generator built using markdown pages (`*.md` files). If you find an error or would like to contribute to and improve the documentation, use the “**Edit this page on Github**” link which is located at the bottom of every page.
+Nền tảng tài liệu này sử dụng trình tạo trang tĩnh được xây dựng bằng các trang đánh dấu (`*.md` files). Nếu bạn tìm thấy lỗi hoặc muốn đóng góp và cải thiện tài liệu, hãy sử dụng liên kết “**Chỉnh sửa trang này trên Github**” nằm ở cuối mỗi trang.
 
-Of course we cannot commit to implementing all your suggestions. Comments will go through a review process before being added to the documentation.
+Tất nhiên chúng tôi không thể cam kết thực hiện tất cả các đề xuất của bạn. Nhận xét sẽ trải qua quá trình xem xét trước khi được thêm vào tài liệu.

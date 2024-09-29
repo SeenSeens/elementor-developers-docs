@@ -1,12 +1,14 @@
-# What is an Elementor addon?
+# Addon Elementor là gì?
 
 <Badge type="tip" vertical="top" text="Elementor Core" /> <Badge type="warning" vertical="top" text="Basic" />
 
-Before you start planning and developing your Elementor addon, it’s important to understand what addons are and how they fit into Elementor. Addons are a way third party developers can extend the Elementor’s functionality, add new features, integrate external services, customize workflow and more.
+Trước khi bạn bắt đầu lập kế hoạch và phát triển addon Elementor của mình, điều quan trọng là phải hiểu addon là gì và chúng phù hợp với Elementor như thế nào. Addons là cách các nhà phát triển bên thứ ba có thể mở rộng chức năng của Elementor, thêm các tính năng mới, tích hợp các dịch vụ bên ngoài, tùy chỉnh quy trình làm việc và hơn thế nữa.
 
-## Addons in the Market
 
-Some examples of addons currently available from the market:
+
+## Addons trên thị trường
+
+Một số ví dụ về addon hiện có sẵn trên thị trường:
 
 * Collections of professionally designed templates.
 * New toolkits that let users build dynamic architectures.
@@ -16,10 +18,10 @@ Some examples of addons currently available from the market:
 * Post widgets that allow users to customize the presentation of their content.
 * Addons that integrate interactive elements.
 
-## Elementor Core vs. Addons
+## Elementor Core so với Addons
 
-In essence, Elementor has developed into a strong framework. This framework, in turn, supports third party addons which serve to solve specific needs not answered by Elementor itself. While some developers developed niche features, others took it to the next level, reinventing existing elements and integrating new functionalities.
+Về bản chất, Elementor đã phát triển thành một khuôn khổ mạnh mẽ. Khung này, lần lượt, hỗ trợ các addon của bên thứ ba phục vụ để giải quyết các nhu cầu cụ thể không được trả lời bởi chính Elementor. Trong khi một số nhà phát triển phát triển các tính năng thích hợp, những người khác đã đưa nó lên cấp độ tiếp theo, tái tạo các thành phần hiện có và tích hợp các chức năng mới.
 
-## Addon Ideas
+## Ý tưởng Addon
 
-As you can see from the above list, the possibilities for creating new addons are almost endless. There are opportunities for developers to create advanced widgets, form integrations, dynamic tags, animations, extensions for lead collection, custom fonts and font icons, sophisticated sliders, mega menus, visibility functionality and more. Have your own idea for a cool addon? You can start [here](https://developers.elementor.com/docs/getting-started/first-addon/), by building your first addon. 
+Như bạn có thể thấy từ danh sách trên, khả năng tạo addon mới là gần như vô tận. Có nhiều cơ hội cho các nhà phát triển tạo tiện ích nâng cao, tích hợp biểu mẫu, thẻ động, hoạt ảnh, tiện ích mở rộng để thu thập khách hàng tiềm năng, phông chữ tùy chỉnh và biểu tượng phông chữ, thanh trượt tinh vi, menu mega, chức năng hiển thị và nhiều hơn nữa. Bạn có ý tưởng riêng cho tiện ích bổ sung thú vị không? Bạn có thể bắt đầu [tại đây](https://developers.elementor.com/docs/getting-started/first-addon/), bằng cách xây dựng addon đầu tiên của bạn. 
