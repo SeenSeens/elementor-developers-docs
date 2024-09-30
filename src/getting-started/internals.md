@@ -1,37 +1,37 @@
-# Elementor Internals
+# Nội dung Elementor
 
 <Badge type="tip" vertical="top" text="Elementor Core" /> <Badge type="warning" vertical="top" text="Basic" />
 
-Elementor has underlying technology, which we call the internals. In this section we’ll introduce you to the concepts you should understand when developing your Elementor addons.
+Elementor có công nghệ cơ bản mà chúng tôi gọi là internals. Trong phần này, chúng tôi sẽ giới thiệu cho bạn các khái niệm bạn cần hiểu khi phát triển các addon Elementor của mình.
 
 ## Available Internals
 
-Below is a list of Elementor internals along with a short description and links to more in-depth information:
+Dưới đây là danh sách các thành phần bên trong Elementor cùng với mô tả ngắn và liên kết đến thông tin chuyên sâu hơn:
 
 * [The Editor](./../editor/)
 
-  The editor is where users create pages and control their settings. It is divided into preview and panel areas. The panel hosts the list of widgets and is where users control the settings. The preview screen is where they see how the page will look.
+Trình chỉnh sửa là nơi người dùng tạo trang và kiểm soát cài đặt của họ. Nó được chia thành các khu vực xem trước và bảng điều khiển. Bảng điều khiển lưu trữ danh sách các widget và là nơi người dùng kiểm soát các cài đặt. Màn hình xem trước là nơi họ thấy trang sẽ trông như thế nào.
 
 * [Managers](./../managers/)
 
-  Elementor's architecture registers and unregisters elements using special managers. External developers need to use these managers to register their own elements. This will let Elementor know about them, enabling their use.
+Kiến trúc của Elementor đăng ký và hủy đăng ký các phần tử bằng cách sử dụng các trình quản lý đặc biệt. Các nhà phát triển bên ngoài cần sử dụng các trình quản lý này để đăng ký các phần tử của riêng họ. Điều này sẽ cho Elementor biết về chúng, cho phép chúng sử dụng.
 
 * [Scripts & Styles](./../scripts-styles/)
 
-  Developers need to know how different Elementor components load custom JS and CSS files. Since these files can severely impact performance, it’s important to learn the proper methods to load them for each component.
+Các nhà phát triển cần biết cách các thành phần Elementor khác nhau tải các tệp JS và CSS tùy chỉnh. Vì các tệp này có thể ảnh hưởng nghiêm trọng đến hiệu suất, điều quan trọng là phải tìm hiểu các phương pháp thích hợp để tải chúng cho từng thành phần.
 
 * [Hooks](./../hooks/)
 
-  There are a wide range of hooks that can be used with Elementor. This documentation contains a complete listing of the entire range of available hooks Elementor has to offer - filter hooks, action hooks, PHP hooks, JS hooks, frontend hooks and editor hooks.
+Có nhiều loại hook có thể sử dụng với Elementor. Tài liệu này chứa danh sách đầy đủ toàn bộ các hook có sẵn mà Elementor cung cấp - filter hooks, action hooks, PHP hooks, JS hooks, frontend hooks and editor hooks.
 
 * [Deprecations](./../deprecations/)
 
-  Over time, code is removed or replaced. The deprecation process is gradual and Elementor deprecation process consists of the several steps. Developers need to know how Elementor deprecates code and how they need to debug and update deprecated code.
+Theo thời gian, mã sẽ bị xóa hoặc thay thế. Quá trình ngừng sử dụng diễn ra dần dần và quá trình ngừng sử dụng Elementor bao gồm một số bước. Các nhà phát triển cần biết cách Elementor ngừng sử dụng mã và cách họ cần gỡ lỗi và cập nhật mã đã ngừng sử dụng.
 
 * [CLI](./../cli/)
 
-  Elementor integrates with WP-CLI, enabling developers to run certain Elementor tasks via the command line interface, without using a web browser. All the available commands with their arguments and usage examples are listed here.
+Elementor tích hợp với WP-CLI, cho phép các nhà phát triển chạy một số tác vụ Elementor thông qua giao diện dòng lệnh mà không cần sử dụng trình duyệt web. Tất cả các lệnh có sẵn cùng với các đối số và ví dụ sử dụng của chúng đều được liệt kê ở đây.
 
 * [Building Addons](./../addons/)
 
-  This section contains information for those unfamiliar with WordPress. It discusses basic WordPress plugin development, as well as Elementor addons and advanced topics, including background information on plugins and object oriented programming.    
+Phần này chứa thông tin dành riêng cho những người không quen thuộc với WordPress. Phần thảo luận này về cơ sở phát triển plugin WordPress, cũng như các tiện ích bổ sung Elementor và các chủ đề nâng cao, bao gồm thông tin cơ bản về plugin và lập trình hướng đối tượng.

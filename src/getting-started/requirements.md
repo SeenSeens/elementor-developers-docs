@@ -1,19 +1,19 @@
-# Requirements
+# Yêu cầu
 
 <Badge type="tip" vertical="top" text="Elementor Core" /> <Badge type="warning" vertical="top" text="Basic" />
 
-Before starting to work, make sure you meet the requirements as outlined below.
+Trước khi bắt đầu làm việc, hãy đảm bảo bạn đáp ứng các yêu cầu được nêu dưới đây.
 
 ## Server
 
-To start working you’ll need a WordPress site, preferably with a fresh installation of WordPress (either local host or staging/development environment). You can use the basic [server requirements required to run WordPress](https://wordpress.org/about/requirements/).
+Để bắt đầu làm việc, bạn sẽ cần một trang web WordPress, tốt nhất là cài đặt WordPress mới (either local host or staging/development environment). Bạn có thể sử dụng [server requirements required to run WordPress](https://wordpress.org/about/requirements/).
 
-Your server should be using a PHP version that meets or exceeds [Elementor’s requirements](https://wordpress.org/plugins/elementor/#installation).
+Máy chủ của bạn phải sử dụng phiên bản PHP đáp ứng hoặc cao hơn [Yêu cầu của Elementor](https://wordpress.org/plugins/elementor/#installation).
 
 ## Plugins and Themes
 
-Your site should have both the [Elementor plugin](https://wordpress.org/plugins/elementor/) and [Hello theme](https://wordpress.org/themes/hello-elementor/) installed. If you’re planning on developing addons for Elementor Pro, you’ll need to have [Elementor Pro](https://elementor.com/pro/) installed.
+Trang web của bạn nên có cả [Elementor plugin](https://wordpress.org/plugins/elementor/) và [Hello theme](https://wordpress.org/themes/hello-elementor/) đã cài đặt. Nếu bạn đang có kế hoạch phát triển addon cho Elementor Pro, bạn sẽ cần phải có [Elementor Pro](https://elementor.com/pro/) đã cài đặt.
 
 ## Programming Languages
 
-We also recommend you have a working knowledge of [WordPress plugin development](https://developer.wordpress.org/plugins/), and familiarity with HTML, CSS, JavaScript and PHP.
+Chúng tôi cũng khuyên bạn nên có kiến thức thực tế về [Phát triển plugin Wordpress](https://developer.wordpress.org/plugins/), và quen thuộc với HTML, CSS, JavaScript và PHP.
